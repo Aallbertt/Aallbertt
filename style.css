@@ -1,0 +1,17 @@
+body{background-color: black;
+}
+
+h1 {
+    font-size: 5rem;
+    font-family: :sans-serif;
+    color: white;
+    text-align: center
+}
+
+.valokuva {
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
